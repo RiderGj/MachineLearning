@@ -9,3 +9,4 @@ CATALOGUE
 2. naive-bayes
 3. k-nearest
 4. decisioin-tree
+
